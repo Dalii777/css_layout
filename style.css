@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Pixelify+Sans&family=Roboto:wght@100&family=Work+Sans:wght@100&display=swap');
+.img{
+    width: 350px;
+}
+.nav1{
+    display: flex;
+    background-color: white;
+    width: 70%;
+    margin: 0% auto;
+    justify-content: space-between;
+}
+.ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    color:grey;
+}
+.aboutus{
+    color: #00b39b;
+}
+nav li:hover{
+    color: black;
+}
+div img{
+    width: 40px;
+}
+.div1{
+width: 70%;
+margin: 40px auto;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.paragraph{
+    display: flex;
+    gap: 50px;
+    color: grey;
+}
+.making{
+    color: #00b39b;
+}
+.card{
+    width: 70%;
+    height: 50%;
+    margin: 7% auto;
+    display: flex;
+    gap: 50px; 
+}
+.cards{
+    background-color:#00ccb1;
+    width: 25%;
+    height: 350px;
+    margin: auto 20px;
+    font-size: 120%;
+    font-weight: lighter;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+.cards h1{
+    color: #fff;
+    font-family: Work Sans, Arial, sans-serif;
+}
+.cards p{
+    font-size: 100%;
+    font-family: Work Sans, Arial, sans-serif;
+    color: #fff;   
+}
+.select{
+    background-color: transparent;
+    margin: 20% auto;
+    text-decoration: underline;
+    color: #fff;
+}
+.select option{
+    background-color:#00ccb1;
+}
+.card2{
+    background-color:#3d83df;
+}
+.card2 option{
+    background-color: #3d83df;
+}
+.card3{
+    background-color:#1b2734;
+}
+.card3 option{
+    background-color:#1b2734;
+}
+.global{
+    margin: 0% auto;
+    width: 70%;
+    display: flex;
+    font-size: 70%;
+    justify-content: space-between;
+}
+.global div{
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+.global div img{
+    width: 25%;
+    height: 20px;
+}
+.global img:last-child{
+    margin-right: 100px;    
+}
+.improve p{
+    text-align: center;
+    color: #00b39b;
+}
+.improve h1{
+    text-align: center;
+}
+.improve{
+    width: 40%;
+    margin: 10% auto;
+}
+.main{
+    width: 70%;
+    margin: 0% auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.warsaw{
+    width:27%;
+}
+.warsaw div{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    color: #747474;
+}
+.warsaw img{
+    width: 100%;
+}
+.warsaw button{
+    background-color: #3d83df;
+    border-radius: 5px;
+    height: 40px;
+    color:white;
+}
+.huge{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background-color: #d0faf4;
+    margin-top: 30px;
+}
+.container{
+    
+    display: flex;
+    padding:100px;
+    height: 400px;
+    justify-content: space-between;
+}
+.left{
+    width: 40%;
+}
+.right{
+    display: flex;
+    width: 50%;
+    flex-wrap: wrap;
+    height: 500px;
+    justify-content: space-between;
+    row-gap:20px ;
+}
+.cardd{
+    width: 45%;
+background-color: #fff;   
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+#k{
+    position: absolute;
+    width: 350px;
+    bottom: -70px;
+    left: 100px;
+    filter: invert(61%) sepia(100%) saturate(3056%) hue-rotate(157deg) brightness(88%) contrast(101%);
+
+    
+}
+.cardd p{
+    color: #5f9ea0;
+}
+.left h1{
+    color: #00b39b;
+}
+.left p{
+    color: #747474;
+}
+.right h1{
+    color: #00b39b;
+}
+.okk{
+    width: 35%;
+    margin: 10% auto;
+    text-align: center;
+}
+.okk button{
+    background-color: #3d83df;
+    border-radius: 4px;
+    padding: 7px;
+}
+.okk h1{
+    color: #333;
+    font-family: Work Sans, Arial, sans-serif;
+}
+.footer{
+    width: 50%;
+    margin: 0% auto;
+    text-align: center;
+    font-family: Roboto, Arial, sans-seri;
+    font-size: 12px;
+    color: rgb(171, 171, 171);
+}
+.href{
+    color: #337ab7;
+    text-decoration: underline;
+}
+
+
